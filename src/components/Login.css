@@ -1,0 +1,24 @@
+.login{
+    width: 100%;
+    height: 110vh;
+    background-image: linear-gradient(to right, #4568DC , #B06AB3);
+}
+.LoginForm{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+  
+}
+.LoginCard{
+    height: fit-content;
+    width: fit-content;
+   
+}
+
+.Login_Components{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
